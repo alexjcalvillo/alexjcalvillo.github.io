@@ -8,6 +8,10 @@
     font-size: 60px;
   text-align: center;
 }
+body {
+  text-align: center;
+  margin: auto;
+}
 p{
   background-color: #e6deb1;
   color: black;
