@@ -6,8 +6,10 @@ body {
 p{
   background-color: #e6deb1;
   color: black;
-  padding 0px 250px;
   margin 10px; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .main {
@@ -21,7 +23,7 @@ p{
 }
 
 .heading-title {
-    margin: auto;
+    margin: 
     font-size: 60px;
   text-align: center;
 }
